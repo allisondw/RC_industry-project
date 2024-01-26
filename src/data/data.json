@@ -1,27 +1,44 @@
 [
     {
-      "backgroundImage": "assets/catpics/763e91e79dfd2bcdebedc4c067389e05.webp",
-      "title": "content1",
-      "body": "bodycontent"
+      "image": "../../assets/adobestock_552174442_720.jpg",
+      "title": "New Friends",
+      "subtitle": "Adventures Shared, Bonds Formed",
+      "copy": "With so much variety on board, the activities that you gravitate towards are sure to attract like-minded guests. And is there a be tter way to make friends than during a shared experience while on vacation?! On-board activities encourage as much guest interaction as you’d like, with ice-breaking events and small group activities that encourage you meeting your newest friends.",
+      "backgroundColor": "#ff863e"
     },
     {
-      "backgroundImage": "image-2.jpg",
-      "title": "content2",
-      "body": "bodycontent"
+      "image": "../../assets/adobestock_74441597_720.jpg",
+      "title": "Smart Splurge",
+      "subtitle": "Sensible Luxury, Smart Choices",
+      "copy": "The Royal Caribbean cruise provides a luxurious experience while simultaneously maximizing the customer’s overall journey. We offer great package deals that bundle accommodations, meals, and various exciting activities, enhancing our customer’s cruise experience. By taking advantage of early booking discounts and utilizing loyalty programs, you can ensure a great cruise experience that exceeds your expectations. Every single moment on a Royal Caribbean cruise is made to be a memorable and enjoyable vacation.",
+      "backgroundColor": "#e1d6ea"
     },
     {
-      "backgroundImage": "image-3.jpg",
-      "title": "content3",
-      "body": "bodycontent"
+      "image": "../../assets/adventure-awaits_720.jpg",
+      "title": "Adventure Awaits!",
+      "subtitle": "Embrace the Unknown",
+      "copy": "Escape from ordinary life and join us on a day long journey filled with excitement and wonder aboard the Royal Caribbean cruise. From sunrise to sunset, create lasting memories with loved ones as the journey on the cruise continues to unfold. Dive into a world of captivating entertainment, live action shows, and exclusive onboard activities. Let the spirit of exploration and excitement be your guide on the Royal Caribbean cruise, ensuring that each moment becomes an extraordinary page in your chapter.",
+      "backgroundColor": "#a2e5f5"
     },
     {
-      "backgroundImage": "image-4.jpg",
-      "title": "content4",
-      "body": "bodycontent"
+      "image": "../../assets/culnary-quests_720.jpg",
+      "title": "Culinary Quests",
+      "subtitle": "A Delicious Voyage of Discovery",
+      "copy": "Ready to discover a realm of diverse flavors, where each dish takes you on a journey to various corners of the world! Join us for exclusive dining experiences that indulge your taste. We invite you to be our guest and participate in redefining culinary exploration, elevating your dining experience to a new level.",
+      "backgroundColor": "#ffebbb"
     },
     {
-      "backgroundImage": "image-5.jpg",
-      "title": "content5",
-      "body": "bodycontent"
+      "image": "../../assets/safe-seas_720.jpg",
+      "title": "Safe Seas",
+      "subtitle": "A Delicious Voyage of Discovery",
+      "copy": "Ready to discover a realm of diverse flavors, where each dish takes you on a journey to various corners of the world! Join us for exclusive dining experiences that indulge your taste. We invite you to be our guest and participate in redefining culinary exploration, elevating your dining experience to a new level.",
+      "backgroundColor": "#fdb9d9"
+    },
+    {
+      "image": "../../assets/deborah-l-carlson-kxljhuvrqbo-unsplash_720.jpg",
+      "title": "Day-Long Escapes",
+      "subtitle": "Be as Busy as You Want",
+      "copy": "Each of your ships stops can be the start of an unforgettable immersive experience. Imagine the unique culture of each port-city! Our immersive experiences give you a window into the local culture, or an activity that will feel unforgettable.  And have peace of mind with our guaranteed return times, which keep your eye off your watch and onto your environment. Excursion-goers enjoy priority departure, placing you at the start of the line to disembark and enjoy every second. Like the sound of a private tour?! Enjoy a private journey with your own tour guide. There is something waiting for you at every destination. ",
+      "backgroundColor": "#abdda8"
     }
   ]

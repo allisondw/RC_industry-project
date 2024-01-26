@@ -1,0 +1,154 @@
+.Hero-Image {
+  width: 1512px;
+  height: 730px;
+  flex-shrink: 0;
+  background: url("../src/assets/heroimage_720.png"), lightgray 0px -274.396px / 100% 155.187% no-repeat;
+}
+.Hero-Title {
+  color: #FFF;
+  text-shadow: 0px 4px 50px rgba(0, 0, 0, 0.45);
+  font-family: Kapra;
+  font-size: 96px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 1.92px;
+  left: 190px;
+  right: 438px;
+  top: 417px;
+  bottom: 162px;
+}
+.Hero-Paragragh {
+  color: #FFF;
+  text-shadow: 0px 4px 15px rgba(0, 0, 0, 0.45);
+  font-family: "Proxima Nova";
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
+.Hero-Banner {
+  display: inline-flex;
+  padding: 15px 83px 14px 244px;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 55px;
+  background: #FFF;
+  box-shadow: 0px 4px 16.4px 0px rgba(0, 0, 0, 0.25);
+  font-size: 12px;
+}
+.Banner-Title {
+  color: #070769;
+  text-align: center;
+  font-family: "Proxima Nova";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 0.32px;
+}
+.Button-Shop {
+  display: flex;
+  padding: 10px 20px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 3px;
+  background: #FBC83C;
+}
+.Body-Header {
+  color: #070769;
+  text-align: center;
+  font-family: Kapra;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 1.28px;
+}
+.Body-Paragraph {
+  color: #4A4A4A;
+  text-align: center;
+  font-family: "Proxima Nova";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0.36px;
+}
+.Ready_to_Book {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 76vw;
+  height: 414px;
+  flex-shrink: 0;
+  background: #BFE1DF;
+  text-align: center;
+  background-color: #bfe1df;
+  margin: 3rem 10rem 0;
+  // width: 100%;
+}
+.Book-Title {
+  color: #070769;
+  font-family: Kapra;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 1.28px;
+}
+.Book-Paragraph {
+  color: #4A4A4A;
+  font-family: "Proxima Nova";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0.36px;
+  // width: 748px;
+
+}
+.Button-Adventure {
+  border-radius: 8px;
+  background: #005EDC;
+  display: inline-flex;
+  padding: 10px 20px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 300px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+.Hero-Container {
+  text-align: center;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10rem;
+  gap: 2rem;
+}
+
+.Hero-Div {
+  position: absolute;
+  top: 10rem;
+}
+
+.Body-Top {
+  margin: 0 10rem;
+}
+
+
+.Button-Adventure {
+  margin-top: 2rem;
+  color: white;
+}

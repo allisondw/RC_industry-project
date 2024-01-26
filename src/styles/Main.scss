@@ -1,0 +1,16 @@
+*,
+::before,
+::after {
+  box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "Kapra";
+    src: url("../assets/Kapra-Regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "Darwin";
+    src: url("../assets/Los\ Andes\ Type\ \ Darwin\ Pro\ Regular.otf") format("opentype");
+}
+

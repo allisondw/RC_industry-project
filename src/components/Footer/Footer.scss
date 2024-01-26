@@ -1,7 +1,14 @@
 .footerImage {
-    background-image: url(../../assets/footer.png);
-    background-size: cover;
+    background-image: url("../../assets/newfooter_720.png");
+    background-size: contain;
     background-repeat: no-repeat;
-    width: 100%;
-    height: 50%
+    // position: absolute;
+    // left: 0;
+    // bottom: 0;
+    width: 2000px;
+    height: 1200px;
+}
+.footer-container {
+    margin-top: 1rem;
+    width: 2000px;
 }
