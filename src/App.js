@@ -1,16 +1,37 @@
-import './App.css';
-import Header from './components/Header/Header';
-import Footer from './components/Footer/Footer';
-import MainBody from './components/MainBody/MainBody';
+import React from "react";
+import "./App.css";
+import Card from "./components/Card/Card";
+import { useEffect, useState } from "react";
+import imagesInput from "../src/data/data.json";
+function App() {
+  const [shuffledCards, setShuffledCards] = useState([]);
 
-const App = () => {
+  const shuffleCards = (imagesInput) => {
+    let shuffledContent = imagesInput;
+    for (let i = shuffledContent.length - 1; i > 0; i--) {
+      let j = Math.floor(Math.random() * (i + 1));
+      [shuffledContent[i], shuffledContent[j]] = [
+        shuffledContent[j],
+        shuffledContent[i],
+      ];
+    }
+    return shuffledContent;
+  };
+  useEffect(() => {
+    setShuffledCards(shuffleCards(imagesInput));
+  }, []);
   return (
-    <div className="App">
-      <Header />
-      <MainBody />
-      <Footer />
+    <div className="card-container">
+      {shuffledCards.map((card) => {
+          return (
+            <Card
+              title={card.title}
+              body={card.body}
+              image={card.backgroundImage}
+            />
+          );
+      })}
     </div>
   );
 }
-
 export default App;

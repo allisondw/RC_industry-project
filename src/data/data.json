@@ -1,0 +1,27 @@
+[
+    {
+      "backgroundImage": "assets/catpics/763e91e79dfd2bcdebedc4c067389e05.webp",
+      "title": "content1",
+      "body": "bodycontent"
+    },
+    {
+      "backgroundImage": "image-2.jpg",
+      "title": "content2",
+      "body": "bodycontent"
+    },
+    {
+      "backgroundImage": "image-3.jpg",
+      "title": "content3",
+      "body": "bodycontent"
+    },
+    {
+      "backgroundImage": "image-4.jpg",
+      "title": "content4",
+      "body": "bodycontent"
+    },
+    {
+      "backgroundImage": "image-5.jpg",
+      "title": "content5",
+      "body": "bodycontent"
+    }
+  ]
